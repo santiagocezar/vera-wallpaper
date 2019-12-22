@@ -1,2 +1,2 @@
 # vera-wallpaper
-Source SVGs for the Vera wallpaper 
+Source SVG for the Vera wallpaper 
