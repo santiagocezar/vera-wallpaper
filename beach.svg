@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="beach_w_shadow.svg"
+   sodipodi:docname="beach.svg"
    inkscape:export-filename="/home/santi/Descargas/fondo/vera_uhd4.png"
    inkscape:export-xdpi="192.53482"
    inkscape:export-ydpi="192.53482">
@@ -42629,6 +42629,19 @@
        id="linearGradient10377"
        xlink:href="#linearGradient14302"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9895"
+       x="-0.0076827612"
+       width="1.0153655"
+       y="-0.0067743223"
+       height="1.0135486">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.108092"
+         id="feGaussianBlur9897" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -42644,11 +42657,11 @@
      showguides="false"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer11"
      inkscape:document-units="mm"
-     inkscape:cy="801.07556"
-     inkscape:cx="298.65665"
-     inkscape:zoom="0.1767767"
+     inkscape:cy="127.07472"
+     inkscape:cx="1139.4132"
+     inkscape:zoom="0.50000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -42668,7 +42681,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59206,6 +59219,13 @@
        style="opacity:0.5;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9950)"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       style="opacity:0.25;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9895)"
+       d="m 1722.0215,51.140625 3.791,21.845703 -48.4316,-1.015625 2.9101,22.767578 -49.4785,-1.039062 1.9453,23.750001 -50.5683,-1.06055 0.8925,24.79688 0.9336,25.94336 -52.9043,-1.10938 -0.2715,27.14063 -0.2851,28.45703 -55.4649,-1.16407 -1.6757,29.83985 -1.7618,31.35547 -1.8515,32.99414 -1.9531,34.76172 -2.0586,36.67578 62.7109,40.11328 66.3672,42.45117 1.5683,43.55859 1.6641,46.25196 74.9473,50.74219 4.3027,52.5039 4.5938,56.08594 -78.168,-1.63867 2.1601,59.98828 -80.9296,-1.69727 -0.6446,64.32032 -83.8925,-1.75977 -83.8907,-1.75977 -74.3574,-65.89257 8.8828,-59.75782 -67.293,-57.40039 10.1817,-52.19922 9.5508,-48.9707 -59.8067,-47.47265 10.459,-43.30469 -55.0215,-42.21485 -64.8886,-1.35937 -13.6485,40.77344 -14.4668,43.2207 -15.3633,45.89648 -16.3437,48.82618 -17.42188,52.04882 59.55788,58.52691 -17.1647,60.10904 65.4698,66.28497 -16.6336,69.48024 72.5713,76.88424 78.5402,83.20801 85.2772,90.3453 98.2823,-3.1239 -89.3184,-89.6425 -82.2617,-82.55863 -76.0117,-76.28516 13.4453,-68.93945 -68.4316,-65.76954 14.4043,-59.64062 -62.1367,-57.29297 15.0078,-52.09961 14.0801,-48.875 59.0957,50.41016 -12.5938,52.14844 64.7148,57.34765 -11.6445,59.69922 71.3965,65.83203 76.8203,70.83203 87.0801,1.82617 87.0781,1.82618 87.0801,1.82617 -2.4941,-69.27344 83.8925,1.75977 -5.2812,-64.44532 80.9297,1.69727 -7.6797,-60.10352 -7.1738,-56.14062 -6.7168,-52.55469 -77.211,-50.78906 -3.7929,-46.29883 -3.5723,-43.59961 -68.2578,-42.49023 -64.4981,-40.15235 0.3672,-36.71093 0.3496,-34.79493 0.3321,-33.02539 0.3144,-31.38671 56.8399,1.1914 -1.0743,-29.89648 -1.0254,-28.48242 54.1543,1.13476 -2.2285,-27.19336 -2.1269,-25.9668 51.709,1.08399 -3.1739,-24.8457 50.5684,1.06054 50.5683,1.06055 -5.2207,-23.81836 49.4766,1.039062 49.4785,1.03711 -7.0918,-22.855469 48.4317,1.015625 48.4316,1.015625 -8.8047,-21.951172 -47.4277,-0.99414 -47.4297,-0.994141 -47.4297,-0.996094 -47.4277,-0.99414 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-80.433332)"
+       id="path9877" />
     <g
        id="g8805">
       <path
